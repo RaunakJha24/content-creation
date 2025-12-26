@@ -3,6 +3,7 @@ There are anumber of apps that make life of a contetn-creator easy. These are so
 
 ## GIMP
 Supported on : Linux, Mac, Windows
+
 Application: Photo editing, posters, social media material
 
 It is a photo editing software that can be a replacement for Photoshop.
