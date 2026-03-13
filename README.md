@@ -1,8 +1,8 @@
-# 8 FOSS for Content-Creators
-There are anumber of apps that make life of a content-creator easy. These are some software that are free and have exceptional features to be a contendor for professional work.
+# FOSS for Content-Creators
+There are a number of apps that make the life of a content creator easy. These are some software that are free and have exceptional features to be a contender for professional work.
 
 ## GIMP
-* Supported on : ***Linux, Mac, Windows***
+* Supported on: ***Linux, Mac, Windows***
 
 * *Application*: Photo editing, posters, social media material
 
@@ -13,7 +13,7 @@ It is a photo editing software that can be a replacement for Photoshop.
 
 * *Application*: Logo, illustrations
 
-It can be a great alternatibe for Adobe graphics suite.
+It can be a great alternative to the Adobe graphics suite.
 
 ## Krita
 * Supported on: ***Linux, Mac, Windows***
@@ -48,11 +48,11 @@ It is an audio editing tool, best suited for podcasts and cleanup.
 
 * *Applications*: Streaming and screen recording
 
-It is a screen recording screen and live-streaming.
+It is a screen recording and live-streaming.
 
 ## Libre Writer
 * Supported on: ***Linux, Mac, Microsoft Windows***
 
 * *Applications*: Document writing, doc editing 
 
-It is a document writer and editor that supported various formats including Microsoft Word (upto 2010 edition). 
+It is a document writer and editor that supports various formats, including Microsoft Word (up to 2010 edition). 
